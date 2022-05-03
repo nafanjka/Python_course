@@ -25,7 +25,7 @@
 
 #py -3.9 -m jupyter notebook (for Windows users)
 
-#python3.9 -m jupyter notebook  (for Mac and Linux users)
+#python3.10 -m jupyter notebook  (for Mac and Linux users)
 
 #If it works, you will see Jupyter Notebook opened up in your default internet browser.
 
